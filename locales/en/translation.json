@@ -1,177 +1,126 @@
 {
-  "bio": {
-    "firstName": "Mehdi",
-    "lastName": "Khoshnevis",
-    "jobTitle": "Front-End Developer",
-    "about": "I've been working for at least 4 years as a front end developer. I worked in small and large-scale companies with different products. I learned team working and how to work with the team."
-  },
-
-  "contact": {
-    "phone": "+98 910 965 7619",
-    "email": "mkhnsz1996@gmail.com",
-    "website": "https://imehdi.dev",
-    "location": "Tehran, Iran"
-  },
-
-  "skills": [
-    "HTML5",
-    "CSS3",
-    "SCSS",
-    "Bootstrap",
-    "Tailwind CSS",
-    "Javascript",
-    "EcmaScript",
-    "TypeScript",
-    "Vuejs",
-    "Vuetify",
-    "Nuxtjs",
-    "Reactjs",
-    "GraphQL",
-    "Git",
-    "Github",
-    "API REST",
-    "Remote Work"
-  ],
-
-  "experiences": [
-    {
-      "company": "Buzzjective ",
-      "type": "Full-time Remote",
-      "position": "Software Developer",
-      "startDate": "Sep 2021",
-      "endDate": "",
-      "description": "",
-      "website": "https://www.buzzjective.com",
-      "skills": []
+    "bio": {
+      "firstName": "Sara",
+      "lastName": "Doe",
+      "jobTitle": "Senior Software Engineer",
+      "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque voluptate repellat ipsam repudiandae explicabo ratione aliquid, quo maxime ab unde distinctio nihil quod iure at ad, tempora odit mollitia. Amet repellat ipsam repudiandae explicabo ratione aliquid, quo maxime ab unde distinctio nihil quod iure at ad, tempora odit mollitia. Amet."
     },
-    {
-      "company": "Basalam",
-      "type": "Full-time",
-      "position": "Front-End Developer",
-      "startDate": "Jan 2018",
-      "endDate": "Jun 2021",
-      "description": "",
-      "website": "https://www.basalam.com",
-      "skills": []
+  
+    "contact": {
+      "phone": "+49 30 909313146",
+      "email": "your_mail@example.com",
+      "website": "https://example.com",
+      "location": "Berlin, Germany"
     },
-    {
-      "company": "Navac Asia",
-      "type": "Full-time",
-      "position": "Junior Web Developer",
-      "startDate": "Jul 2016",
-      "endDate": "Aug 2017",
-      "description": "",
-      "website": "",
-      "skills": []
-    }
-  ],
-
-  "education": [
-    {
-      "school": "Shahab Danesh University",
-      "degree": "Bachelor's Degree",
-      "field": "Information Technology",
-      "startDate": "2014",
-      "endDate": "2018"
-    }
-  ],
-
-  "projects": [
-    {
-      "name": "Simple Resume Builder",
-      "type": "Open-source",
-      "description": "Simple and minimal resume builder with react and typescript",
-      "website": "https://github.com/MehdiKhoshnevisz/resume",
-      "skills": [],
-      "startDate": "May 2022",
-      "endDate": ""
-    },
-    {
-      "name": "Vue Splash",
-      "type": "Open-source",
-      "description": "splash plugin for vue js",
-      "website": "https://github.com/MehdiKhoshnevisz/vue-splash",
-      "skills": [],
-      "startDate": "Jun 2020",
-      "endDate": ""
-    },
-    {
-      "name": "Personal Website (imehdi.dev)",
-      "type": "Personal and Open-source",
-      "description": "Personal website with React js",
-      "website": "https://github.com/MehdiKhoshnevisz/imehdi.dev",
-      "skills": ["HTML5", "CSS3", "Javascript", "Reactjs", "JSX"],
-      "startDate": "April 2022",
-      "endDate": ""
-    },
-    {
-      "name": "Rangisho",
-      "type": "Freelance",
-      "description": "a platform to connect painters and artisans",
-      "website": "https://rangisho.com",
-      "skills": [
-        "Cascading Style Sheets (CSS)",
-        "Responsive",
-        "Remote Teamwork",
-        "Git",
-        "ECMAScript",
-        "Scss",
-        "BEM",
-        "Laravel-mix",
-        "jQuery",
-        "Gitlab",
-        "Webpack",
-        "Teamwork"
-      ],
-      "startDate": "Jul 2021",
-      "endDate": "Oct 2021"
-    },
-    {
-      "name": "Online Qom Bookstore",
-      "type": "Freelance",
-      "description": "Website for a company that sells books in Qom",
-      "website": "http://ketabeqom.com/",
-      "skills": ["jQuery", "CSS3", "Responsive", "Remote Teamwork"],
-      "startDate": "Apr 2018",
-      "endDate": "Jul 2018"
-    }
-  ],
-
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "Limited Working proficiency"
-    },
-    {
-      "language": "Persian",
-      "fluency": "Native"
-    }
-  ],
-
-  "socials": [
-    {
-      "name": "Github",
-      "url": "https://github.com/MehdiKhoshnevisz"
-    },
-    {
-      "name": "Linkedin",
-      "url": "https://www.linkedin.com/in/mehdi-khoshnevisz/"
-    },
-    {
-      "name": "Instagram",
-      "url": "https://www.instagram.com/mehdi_khoshnevisz/"
-    },
-    {
-      "name": "Twitter",
-      "url": "https://twitter.com/imehdi96"
-    },
-    {
-      "name": "Stackoverflow",
-      "url": "https://stackoverflow.com/users/13455258/mehdi-khoshnevis"
-    },
-    {
-      "name": "Unsplash",
-      "url": "https://unsplash.com/@mehdi_khoshnevisz"
-    }
-  ]
-}
+  
+    "skills": [
+      "HTML5",
+      "CSS3",
+      "SCSS",
+      "Bootstrap",
+      "Javascript",
+      "Reactjs",
+      "Vuejs",
+      "Nodejs"
+    ],
+  
+    "experiences": [
+      {
+        "company": "Google",
+        "type": "Full-time",
+        "position": "Senior Software Engineer",
+        "startDate": "Jan 2020",
+        "endDate": "",
+        "description": "Started and scaled design team to 6 product designers and Implemented a web application desgin System.",
+        "website": "https://www.google.com",
+        "skills": ["C++", "C#", "Javascript"]
+      },
+      {
+        "company": "Apple Company",
+        "type": "Full-time",
+        "position": "Technical lead",
+        "startDate": "Jun 2019",
+        "endDate": "Feb 2020",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod, nisi vitae tincidunt congue, nisl nunc egestas nisi, euismod aliquet nisl nunc eget.",
+        "website": "https://www.apple.com",
+        "skills": ["HTML5", "CSS3", "Javascript", "Reactjs", "Nodejs"]
+      }
+    ],
+  
+    "education": [
+      {
+        "school": "University of Cambridge",
+        "degree": "Bachelor of Science",
+        "field": "Computer Science",
+        "startDate": "Sep 2019",
+        "endDate": "Jun 2021"
+      }
+    ],
+  
+    "projects": [
+      {
+        "name": "Your Project Name 1",
+        "type": "Open-source",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod, nisi vitae tincidunt congue, nisl nunc egestas nisi, euismod aliquet nisl nunc eget.",
+        "website": "https://example.com",
+        "skills": ["HTML5", "CSS3", "Javascript", "Reactjs", "Nodejs"],
+        "startDate": "Jun 2019",
+        "endDate": "May 2020"
+      },
+      {
+        "name": "Your Project Name 2",
+        "type": "Freelance",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod, nisi vitae tincidunt congue, nisl nunc egestas nisi, euismod aliquet nisl nunc eget.",
+        "website": "https://another-example.com",
+        "skills": ["HTML5", "CSS3", "Javascript", "Reactjs", "Nodejs"],
+        "startDate": "Jun 2021",
+        "endDate": ""
+      }
+    ],
+  
+    "languages": [
+      {
+        "language": "English",
+        "fluency": "Limited Working proficiency"
+      },
+      {
+        "language": "German Deutsch",
+        "fluency": "Native"
+      }
+    ],
+  
+    "socials": [
+      {
+        "name": "Github",
+        "url": "https://github.com/johndoe"
+      },
+      {
+        "name": "Linkedin",
+        "url": "https://www.linkedin.com/in/johndoe"
+      },
+      {
+        "name": "Twitter",
+        "url": "https://twitter.com/johndoe"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/johndoe"
+      },
+      {
+        "name": "Facebook",
+        "url": "https://www.facebook.com/johndoe"
+      },
+      {
+        "name": "Youtube",
+        "url": "https://www.youtube.com/channel/UC-lHJZR3Gqxm24_Vd_AJ5Yw"
+      },
+      {
+        "name": "Medium",
+        "url": "https://medium.com/@johndoe"
+      },
+      {
+        "name": "Stackoverflow",
+        "url": "https://stackoverflow.com/users/12345"
+      }
+    ]
+  }

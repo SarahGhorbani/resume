@@ -3,7 +3,9 @@
     "firstName": "Sara",
     "lastName": "Ghorbani",
     "jobTitle": "Android | Flutter Developer",
-    "about": "6 years Experience in Android programming adapt in all stages of advanced Android development. Knowledgeable in development, debugging and maintenance processe.Proficient in an assortment of technologies, including Java, Dart, Flutter. experience in teaching 2 classes and also leading 5 interns.Able to effectively self-manage during independent projects, as well as collaborate in a team setting.Familiar with UI/UX principle, also have experience in financial markets and familiar with Crypto currencies NFT’s and Metavers."
+    "about": "More than 5 years of Experience in Android programming and can adapt to all stages of advanced Android development. Knowledgeable in development, debugging, and maintenance processes. Proficient in various technologies, including Java, Kotlin, and Android/ IOS/ Web output with flutter.
+Experience in teaching 2 classes and also leading 5 interns.
+Also, familiar with UI/UX principles, have some experience in financial markets and am knowledgeable with and very passionate about Cryptocurrencies NFT, and Web3."
   },
 
   "contact": {
@@ -37,9 +39,21 @@
       "position": "Flutter Developer",
       "startDate": "Nov 2021",
       "endDate": "present",
-      "description": "Karso application is a comprehensive online application in the field of management and control of personal and commercial business. Attendance, salary, calendar and reminders are some of the basic features that are included in this application",
+      "description": "- Implemented time tracker, location tracker, map, background service, notification, order food, etc.
+- Cleaned and redesign code architecture
+- Added Firebase Crashlytics to project
+- Made android and IOS outputs.",
       "website": "https://www.karsu.ir",
-      "skills": ["Flutter", "Dart", "Bloc State Management","Localization" , "Lint" , "RxDart" ," Flavor"]
+      "skills": ["Flutter", "Dart", "Bloc State Management","Localization" , "Lint" , "RxDart" ,
+      " Flavor",
+       " WebSocket",
+        " Method Channel",
+        " Live Location",
+        " Foreground Service",
+        " Flavor",
+        " Flavor",
+        " Flavor",
+      ]
     },
     {
       "company": "Basalam",
@@ -47,7 +61,7 @@
       "position": "Android App Developer",
       "startDate": "Apr 2019",
       "endDate": "Jan 2020",
-      "description": "I had the experience of being in a big and famous startup that made me understand the challenges of a big company with big teams and managing an application with a high number of installations. I helped implement the feed, profile, post, search, invoice and other parts in the application",
+      "description": "I had the experience of being in a big and famous startup that made me understand the challenges of a big company with big teams and managing an application with more than 2 million of installations. As a team Player, I implemented Feeds, Posts, Comments, likes, Profiles, Search, Filters, Invoices, etc, and maintained the app",
       "website": "https://basalam.com/",
       "skills": ["Java" , "Kotlin" , "Model-view-viewmodel (MVVM)" , "Firebase" , "GraphQL" , "LiveData" , "Retrofit" , "Glide" , "Paging" , "ButterKnife"]
     }
@@ -69,7 +83,7 @@
       "position": "Android App Developer",
       "startDate": "Nov 2016",
       "endDate": "Nov 2017",
-      "description": "",
+      "description": "Implemented 6 projects for customers.",
       "website": "navak.com",
       "skills": ["Java", "REST APIs" , "Volley Library" , "Google Ads" , "Teamwork" ," Scrum" , "GitFlow" , "Trello" , "Jira"]
     }
@@ -97,16 +111,16 @@
     }
   ],
 
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "Limited Working proficiency"
-    },
-    {
-      "language": "Persian",
-      "fluency": "Native"
-    }
-  ],
+//  "languages": [
+//    {
+//      "language": "English",
+ //     "fluency": "Limited Working proficiency"
+//    },
+//    {
+//      "language": "Persian",
+//      "fluency": "Native"
+//    }
+//  ],
 
   "socials": [
     {

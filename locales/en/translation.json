@@ -3,13 +3,11 @@
     "firstName": "Sara",
     "lastName": "Ghorbani",
     "jobTitle": "Android | Flutter Developer",
-    "about": "More than 5 years of Experience in Android programming and can adapt to all stages of advanced Android development. Knowledgeable in development, debugging, and maintenance processes. Proficient in various technologies, including Java, Kotlin, and Android/ IOS/ Web output with flutter.
-Experience in teaching 2 classes and also leading 5 interns.
-Also, familiar with UI/UX principles, have some experience in financial markets and am knowledgeable with and very passionate about Cryptocurrencies NFT, and Web3."
+    "about": "More than 5 years of Experience in Android programming and can adapt to all stages of advanced Android development. Knowledgeable in development, debugging, and maintenance processes. Proficient in various technologies, including Java, Kotlin, and Android/ IOS/ Web output with flutter.\nExperience in teaching 2 classes and also leading 5 interns.\nAlso, familiar with UI/UX principles, have some experience in financial markets and am knowledgeable with and very passionate about Cryptocurrencies NFT, and Web3."
   },
 
   "contact": {
-    "phone": "+98 9305131114", 
+    "phone": "+98 9305131114",
     "email": "sara.qorbani73@gmail.com",
 
     "location": "Iran, Qom"
@@ -39,20 +37,14 @@ Also, familiar with UI/UX principles, have some experience in financial markets 
       "position": "Flutter Developer",
       "startDate": "Nov 2021",
       "endDate": "present",
-      "description": "- Implemented time tracker, location tracker, map, background service, notification, order food, etc.
-- Cleaned and redesign code architecture
-- Added Firebase Crashlytics to project
-- Made android and IOS outputs.",
+      "description": "- Implemented time tracker, location tracker, map, background service, notification, order food, etc.\n- Cleaned and redesign code architecture\n- Added Firebase Crashlytics to project\n- Made android and IOS outputs.",
       "website": "https://www.karsu.ir",
       "skills": ["Flutter", "Dart", "Bloc State Management","Localization" , "Lint" , "RxDart" ,
-      " Flavor",
-       " WebSocket",
+        " Flavor",
+        " WebSocket",
         " Method Channel",
         " Live Location",
-        " Foreground Service",
-        " Flavor",
-        " Flavor",
-        " Flavor",
+        " Foreground Service"
       ]
     },
     {
@@ -61,11 +53,11 @@ Also, familiar with UI/UX principles, have some experience in financial markets 
       "position": "Android App Developer",
       "startDate": "Apr 2019",
       "endDate": "Jan 2020",
-      "description": "I had the experience of being in a big and famous startup that made me understand the challenges of a big company with big teams and managing an application with more than 2 million of installations. As a team Player, I implemented Feeds, Posts, Comments, likes, Profiles, Search, Filters, Invoices, etc, and maintained the app",
+      "description": "I had the experience of being in a big and famous startup that made me understand the challenges of a big company with big teams and managing an application with more than 2 million of installations. As a team Player, As a team Player, I implemented Feeds, Posts, Comments, likes, Profiles, Search, Filters, Invoices, etc, and maintained the app",
       "website": "https://basalam.com/",
-      "skills": ["Java" , "Kotlin" , "Model-view-viewmodel (MVVM)" , "Firebase" , "GraphQL" , "LiveData" , "Retrofit" , "Glide" , "Paging" , "ButterKnife"]
+      "skills": ["Java" , "Kotlin" , "Model-view-viewModel (MVVM)" , "Firebase" , "GraphQL" , "LiveData" , "Retrofit" , "Glide" , "Paging" , "ButterKnife"]
     }
-    ,
+  ,
     {
       "company": "Peykchi.com",
       "type": "Full-time",
@@ -76,7 +68,7 @@ Also, familiar with UI/UX principles, have some experience in financial markets 
       "website": "https://peykchi.com/",
       "skills": ["Java" , "Firebase" , "Android Data Binding", "Retrofit2" , "Google Maps API"]
     }
-    ,
+  ,
     {
       "company": "Navac Asia",
       "type": "Full-time",
@@ -111,16 +103,6 @@ Also, familiar with UI/UX principles, have some experience in financial markets 
     }
   ],
 
-//  "languages": [
-//    {
-//      "language": "English",
- //     "fluency": "Limited Working proficiency"
-//    },
-//    {
-//      "language": "Persian",
-//      "fluency": "Native"
-//    }
-//  ],
 
   "socials": [
     {
@@ -130,6 +112,6 @@ Also, familiar with UI/UX principles, have some experience in financial markets 
     {
       "name": "Github",
       "url": "https://github.com/SarahGhorbani"
-    } 
+    }
   ]
 }

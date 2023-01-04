@@ -37,7 +37,7 @@
       "position": "Flutter Developer",
       "startDate": "Nov 2021",
       "endDate": "present",
-      "description": "- Implemented time tracker, location tracker, map, background service, notification, order food, etc.\\n - Cleaned and redesign code architecture\\n- Added Firebase Crashlytics to project\\n- Made android and IOS outputs.",
+      "description": "- Implemented time tracker, location tracker, map, background service, notification, order food, etc.\n - Cleaned and redesign code architecture\n- Added Firebase Crashlytics to project\n- Made android and IOS outputs.",
       "website": "https://www.karsu.ir",
       "skills": ["Flutter", "Dart", "Bloc State Management","Localization" , "Lint" , "RxDart" ,
         " Flavor",
